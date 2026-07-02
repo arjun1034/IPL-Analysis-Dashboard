@@ -21,7 +21,7 @@ An interactive Power BI dashboard built to analyze IPL data and provide meaningf
 
 ## 📷 Dashboard Preview
 
-![Dashboard](C:/Users/Arjun Waghmare/Downloads/Dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ## 📂 Files
 - IPL_Dashboard.pbix
